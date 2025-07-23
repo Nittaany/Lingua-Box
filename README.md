@@ -1,16 +1,10 @@
 # 🌐 LinguaBox 🎁 – Summarize. Translate. Speak.
 
-![LinguaBox Banner](https://i.imgur.com/MZsR6kV.png) <!-- Replace with your own banner if needed -->
+![LinguaBox Screenshot](https://drive.google.com/uc?export=view&id=1yTfP88S2XIO4alb1nGe76cAJiHv_Y5OO)
+
 
 > ✨ A multilingual AI-powered tool that summarizes long texts or PDFs, translates them into regional languages, and speaks them aloud — all from a clean and interactive UI.
 
----
-
-
-
-![LinguaBox Working Preview](https://i.imgur.com/89U0zXE.png)
-
----
 
 ## 🚀 Features
 
